@@ -1,0 +1,72 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dotdale.us" resolutions="1x,2x" timestamp="1501518213458">
+  <folder name="css">
+    <file name="site_global.css" crc="3849475165"/>
+    <file name="master_www_dotdale_us.css" crc="4279290504" ref="index"/>
+    <file name="index.css" crc="4016663706" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="dotdale.png" crc="4233821683" seo="true" mt="1501463227000"/>
+    <file name="turn.gif" crc="278569910" seo="true" mt="1501514129000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="4216313831" ref="phone>index:tablet>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
+    <file name="museconfig.js" crc="4177022356" ref="phone>index:tablet>index:index"/>
+    <file name="webpro.js" crc="4143865194" ref="phone>index:tablet>index:index"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="phone>index:tablet>index:index"/>
+    <file name="touchswipe.js" crc="4200445185" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="phone>index:tablet>index:index"/>
+    <file name="require.js" crc="3951022091" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.museresponsive.js" crc="4055310269" ref="tablet>index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:index"/>
+    <file name="iphonebg.jpg" crc="205931439" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="method-media-web-design.png" crc="40207533" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="keybg.jpg" crc="4204971187" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:tablet>index:index"/>
+    <file name="ddcircle-u17596.png" crc="4052244497" ref="phone>index"/>
+    <file name="ddcircle-u17596_2x.png" crc="176990129" ref="phone>index"/>
+    <file name="favicon.ico" crc="3897929120" ref="tablet>index"/>
+    <file name="ddcircle-u18078.png" crc="4052244497" ref="tablet>index"/>
+    <file name="ddcircle-u18078_2x.png" crc="176990129" ref="tablet>index"/>
+    <file name="ddcircle-u16141.png" crc="4052244497" ref="index"/>
+    <file name="ddcircle-u16141_2x.png" crc="176990129" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_www_dotdale_us.css" crc="134680785" ref="tablet>index"/>
+      <file name="nomq_preview_master_www_dotdale_us.css" crc="4194708459" ref="tablet>index"/>
+      <file name="index.css" crc="365692654" ref="tablet>index"/>
+      <file name="nomq_index.css" crc="4227519079" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="3896633436" seo="true" mt="1501518115227" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_www_dotdale_us.css" crc="34632480" ref="phone>index"/>
+      <file name="nomq_preview_master_www_dotdale_us.css" crc="3824530138" ref="phone>index"/>
+      <file name="index.css" crc="4286664826" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="58249039" seo="true" mt="1501518115265" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4282557902" seo="true" mt="1501518115309" redirect="true"/>
+</manifest>
