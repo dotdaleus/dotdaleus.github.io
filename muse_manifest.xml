@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dotdale.us" resolutions="1x,2x" timestamp="1501553998899">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dotdale.us" resolutions="1x,2x" timestamp="1501554576352">
   <folder name="css">
     <file name="site_global.css" crc="3849475165"/>
     <file name="master_www_dotdale_us.css" crc="347925448" ref="index"/>
-    <file name="index.css" crc="277813686" ref="index"/>
+    <file name="index.css" crc="208584596" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="dotdale.png" crc="4233821683" seo="true" mt="1501463227000"/>
@@ -101,7 +101,7 @@
       <file name="index.css" crc="493313893" ref="tablet>index"/>
       <file name="nomq_index.css" crc="475924280" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="144732339" seo="true" mt="1501553896472" redirect="true"/>
+    <file name="index.html" crc="442511307" seo="true" mt="1501553896472" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -110,7 +110,7 @@
       <file name="index.css" crc="3765092584" ref="phone>index"/>
       <file name="nomq_index.css" crc="335740836" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="39503081" seo="true" mt="1501553705793" redirect="true"/>
+    <file name="index.html" crc="103768404" seo="true" mt="1501553705793" redirect="true"/>
   </folder>
-  <file name="index.html" crc="380589436" seo="true" mt="1501551921958" redirect="true"/>
+  <file name="index.html" crc="429879955" seo="true" mt="1501554416027" redirect="true"/>
 </manifest>
