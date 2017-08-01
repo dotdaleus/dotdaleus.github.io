@@ -8,13 +8,13 @@
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://dotdale.us/phone/index.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://dotdale.us/tablet/index.html"/>
     <image:image>
-      <image:loc>http://dotdale.us/images/iphonebg.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dotdale.us/images/method-media-web-design.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://dotdale.us/images/keybg.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dotdale.us/images/iphonebg%20copy.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dotdale.us/images/method-media-web-design.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -24,7 +24,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://dotdale.us/assets/turn.gif</loc>
+    <loc>http://dotdale.us/assets/turn2.gif</loc>
     <lastmod>2017-07-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
